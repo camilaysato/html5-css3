@@ -1,0 +1,36 @@
+body {
+    background: #C58AD3 ;
+    margin-left: 50px;
+    }
+
+header {
+    margin-top: 100px
+}
+
+h1 {
+    font-family: garamond;
+    font-size: 20px
+}
+
+h2 {
+    font-family: garamond;
+    font-size: 18px
+}
+
+p {
+    font-family:garamond;
+    font-size: 16px
+}
+
+footer {
+    margin-bottom: 100px
+}
+
+img {
+    margin-bottom: 100px
+}
+
+.img_padrão {
+    margin: 50px;
+    width: 100px
+}
